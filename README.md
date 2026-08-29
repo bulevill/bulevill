@@ -1,6 +1,6 @@
 ## Hi, I'm Ulises Villarreal
 
-Ten years turning ambiguous business questions into systems that answer them repeatedly: pricing and forecasting in commodity fuels, then experimentation, compliance analytics, and executive measurement infrastructure in consumer credit. Increasingly built with agentic AI rather than by hand.
+Ten years turning ambiguous business questions into systems that answer them repeatedly: pricing and forecasting in commodity fuels, then marketing and product analytics in consumer credit, covering experimentation, compliance, and the executive measurement infrastructure underneath. Increasingly built with agentic AI rather than by hand.
 
 Alpha Engine is the same instinct off the clock — an options research platform with a real-chain backtester and a live execution engine. Four strategies tested, none funded, and I'd rather say that than show you a curve.
 
