@@ -1,9 +1,8 @@
 ## Hi, I'm Ulises Villarreal
 
-I build data and quantitative systems, and I spend most of my time on the unglamorous half of
-that: making sure the answer is actually true. Backtests, models, and dashboards are easy to
-build and easy to fool yourself with — placebo controls, pre-registration, and held-out data
-are how I tell the difference.
+Ten years turning ambiguous business questions into systems that answer them repeatedly: pricing and forecasting in commodity fuels, then experimentation, compliance analytics, and executive measurement infrastructure in consumer credit. Increasingly built with agentic AI rather than by hand.
+
+Alpha Engine is the same instinct off the clock — an options research platform with a real-chain backtester and a live execution engine. Four strategies tested, none funded, and I'd rather say that than show you a curve.
 
 Currently looking for **data science / ML and quantitative research** roles.
 
