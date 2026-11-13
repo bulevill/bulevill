@@ -2,7 +2,9 @@
 
 Ten years turning ambiguous business questions into systems that answer them repeatedly: pricing and forecasting in commodity fuels, then marketing and product analytics in consumer credit, covering experimentation, compliance, and the executive measurement infrastructure underneath. Increasingly built with agentic AI rather than by hand.
 
-Alpha Engine and Dopplerganger are the same instinct off the clock. Alpha Engine is an options research platform with a real-chain backtester and a live execution engine. Four strategies tested, none funded, and I'd rather say that than show you a curve. Dopplerganger estimates where an audio recording was made by matching aircraft Doppler curves against ADS-B flight data. It locates 19 of 24 realistic simulations and has not yet located a real recording.
+Alpha Engine is the same instinct off the clock — an options research platform with a real-chain backtester and a live execution engine. Four strategies tested, none funded, and I'd rather say that than show you a curve.
+
+Dopplerganger estimates where an audio recording was made by matching aircraft Doppler curves against ADS-B flight data and terrain. It locates 19 of 24 realistic simulations built from real flight tracks.
 
 Currently looking for **data science / ML and quantitative research** roles.
 
