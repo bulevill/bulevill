@@ -2,7 +2,7 @@
 
 Ten years turning ambiguous business questions into systems that answer them repeatedly: pricing and forecasting in commodity fuels, then marketing and product analytics in consumer credit, covering experimentation, compliance, and the executive measurement infrastructure underneath. Increasingly built with agentic AI rather than by hand.
 
-**Alpha Engine** is the off-hours version: an options research platform that prices every backtest off real historical option chains and trades through a live Interactive Brokers execution engine. It has put four strategies through placebo controls and a single-use holdout. Two were retired; the two that survived are still short of the risk bar I set before testing, so neither has real money behind it.
+**Alpha Engine** is the off-hours version: an options research platform that prices every backtest off real historical option chains and trades through a live Interactive Brokers execution engine. It has put four strategies through placebo controls and a single-use holdout. Two were retired; the two that survived are still short of the risk bar I set before testing, so neither has real money behind it. Yet.
 
 **Dopplerganger** estimates where an audio recording was made by matching aircraft Doppler curves against ADS-B flight data and terrain. It locates 19 of 24 realistic simulations built from real flight tracks.
 
