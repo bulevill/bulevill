@@ -28,8 +28,7 @@ affected results rather than restating them.
 · *Python, NumPy, SciPy, DuckDB, geospatial*
 Estimates where an audio recording was made by matching small-aircraft Doppler curves against US
 ADS-B flight data and terrain. Locates 19 of 24 realistic renders built from real flight tracks; the
-detector scores 22/31 on held-out real flyover recordings (previous version 5/31). No field recording
-located to date; 0.8% of US land gives a 30-minute recording a ≥ 50% chance of two usable passes.
+detector scores 22/31 on held-out real flyover recordings (previous version 5/31).
 → [Full case study](https://github.com/bulevill/portfolio/blob/main/case-studies/dopplerganger.md)
 
 <!--
