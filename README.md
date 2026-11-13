@@ -13,12 +13,22 @@ Currently looking for **data science / ML and quantitative research** roles.
 **[Alpha Engine](https://github.com/bulevill/alpha-engine)** — options research platform
 · *Python, pandas, NumPy, SciPy, IBKR, FastAPI*
 An end-to-end system for testing options strategies: signal research, a backtester priced off
-real historical OPRA chains, and a risk-managed live execution engine. I tested four
-strategies against it; three came back negative or null, and the fourth failed the risk bar
-I'd set in advance — so none are funded. Along the way an independent review found a one-day
-look-ahead in the entry signal that had been inflating every headline number, which I fixed
-and then retired the affected results rather than restating them.
+real historical OPRA chains, and a risk-managed live execution engine. I've tested four
+strategies against it; two came back negative or null and are retired, and two are still
+standing — one gated on drawdown, one on an execution spread I can't currently reach. Neither
+has cleared the risk bar I set in advance, so nothing is funded yet and the work continues on
+those two constraints. Along the way an independent review found a one-day look-ahead in the
+entry signal that had been inflating every headline number, which I fixed and then retired the
+affected results rather than restating them.
 → [Full case study](https://github.com/bulevill/portfolio/blob/main/case-studies/alpha-engine.md)
+
+**[Dopplerganger](https://github.com/bulevill/dopplerganger)** — acoustic geolocation from aircraft Doppler curves
+· *Python, NumPy, SciPy, DuckDB, geospatial*
+Estimates where an audio recording was made by matching small-aircraft Doppler curves against US
+ADS-B flight data and terrain. Locates 19 of 24 realistic renders built from real flight tracks; the
+detector scores 22/31 on held-out real flyover recordings (previous version 5/31). No field recording
+located to date; 0.8% of US land gives a 30-minute recording a ≥ 50% chance of two usable passes.
+→ [Full case study](https://github.com/bulevill/portfolio/blob/main/case-studies/dopplerganger.md)
 
 <!--
 Add 2–3 more here as you bring them. Same shape:
